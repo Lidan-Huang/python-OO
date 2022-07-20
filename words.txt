@@ -1,5 +1,12 @@
+# mammals
 whale
-shark
+manatee
 otter
 seal
-manatee
+
+#Fish
+shark
+salmon
+tuna
+
+
